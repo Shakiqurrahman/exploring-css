@@ -1,0 +1,23 @@
+#uk{
+    color: salmon;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+p{
+    font-weight: bolder;
+    font-size: 1.5em;
+    border: 3px dashed red;
+    padding: 5px 10px ;
+    margin: 0 20px;
+    text-align: justify;
+}
+/* #usa{
+    color: blue;
+    text-align: right;
+} */
+.barobatari{
+color: red;
+text-align: center;
+background-color: blue;
+}

@@ -1,0 +1,31 @@
+.uk{
+    color:black;
+    text-align: center;
+    background-color:brown ;
+    padding: 10px;
+    display: inline-block;
+}
+#antaji{
+    border: 4px dotted magenta;
+    padding: 10px;
+    margin: 0px 40px;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+
+}
+
+#korim-ullah{
+    text-align: center;
+    color: rgb(111, 0, 255);
+}
+.usa{
+    color: white;
+    background-color: black;
+}
+a{
+    background-color: aqua;
+    text-decoration: none;
+    color: rgb(6, 30, 22);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
